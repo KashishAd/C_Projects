@@ -1,8 +1,3 @@
-/* Name: Devansh Chaudhary 
-UID: U47398970
-Desc: This program defines the decrypt function to decrypt the message according to the encrypted 
-message input by the user. The program leverages the string-pointer method. */
-
 #include <stdio.h>
 
 void decrypt(char *input, char *output);
